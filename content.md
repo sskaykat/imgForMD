@@ -6,5 +6,4 @@
 
 >*喵嗷呜*
 
-<center>
-<img src="https://cdn.jsdelivr.net/gh/filess/img5@main/2022/05/20/1652984936862-2c0d63c8-c08b-4370-8063-d3a56b7ae14a.jpg" style="width: 30%;"></center>
+<img src="https://cdn.jsdelivr.net/gh/filess/img5@main/2022/05/20/1652984936862-2c0d63c8-c08b-4370-8063-d3a56b7ae14a.jpg" style="width: 30%;">
